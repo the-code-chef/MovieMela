@@ -1,4 +1,4 @@
-# MovieGuide
+# MovieMela
 [![CircleCI](https://circleci.com/gh/esoxjem/MovieGuide/tree/master.svg?style=shield&circle-token=d70af6198563283dd5ece86f07a0a74dd50d566b)](https://circleci.com/gh/esoxjem/MovieGuide/tree/master)
 
 Android app that lists popular/highest-rated movies, shows trailers and reviews.
@@ -11,7 +11,7 @@ Add your themoviedb.org API key in `root/local.properties`
 tmdb_api_key=YOUR_API_KEY
 ```
 
-Check out the Kotlin version [here](https://github.com/esoxjem/MovieGuide-Kotlin)
+Check out the Kotlin version [here](https://github.com/sinhaDroid/MovieGuide-Kotlin)
 
 ![Screenshot](http://i.imgur.com/72PypXCm.png) 
 ![screenshot2](http://imgur.com/I96Eka6m.png)
